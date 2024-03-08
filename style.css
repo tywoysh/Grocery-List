@@ -2,13 +2,21 @@
     background-color: bisque;
 } */
 
+nav {
+    padding-left: 275px;
+}
+
+h1 {
+    padding-left: 150px;
+}
+
 ul,ol {
     background-color: lightgray;
-    display: inline-block;
+    /* display: inline-block; */
     padding-right: 25px;
     padding-bottom: 25px;
     padding-top: 25px;
-    margin-right: 20px;
+    /* margin-right: 20px; */
     border: 1px dotted;
 }
 
@@ -19,12 +27,26 @@ li {
 h2 {
     background-color: bisque;
     border: 2px solid;
-    width: 355px;
+    width: 350px;
+    padding: 10px;
+    margin-left: 10px;
 }
 
 img {
     display: inline-block;
     height: 150px;
     width: 200px;
-    padding: 2px;
+    padding: 5px;
+}
+
+.outer-section {
+    border: 1px solid;
+    margin: 10px 10px 10px 10px;
+    width: 700px;
+}
+
+.inner-section {
+    display: inline-block;
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
 }
