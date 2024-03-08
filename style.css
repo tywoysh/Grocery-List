@@ -1,0 +1,30 @@
+/* section {
+    background-color: bisque;
+} */
+
+ul,ol {
+    background-color: lightgray;
+    display: inline-block;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin-right: 20px;
+    border: 1px dotted;
+}
+
+li {
+    background-color: lightgray;
+}
+
+h2 {
+    background-color: bisque;
+    border: 2px solid;
+    width: 355px;
+}
+
+img {
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    padding: 2px;
+}
