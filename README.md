@@ -2,4 +2,4 @@
 
 Check out my Grocery Store Website Below!
 
-![grocery list](grocery.png?raw=true "Grocery List Home Page")
+![grocery list](grocery2.png?raw=true "Grocery List Home Page")
